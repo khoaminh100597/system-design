@@ -37,3 +37,5 @@ System Design is the process of designing the *architecture*, *components*, and 
 2. Cost
 3. Requires expertise
 4. Limited flexibility
+
+## End
